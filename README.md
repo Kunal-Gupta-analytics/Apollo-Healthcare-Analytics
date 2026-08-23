@@ -110,4 +110,4 @@ The Power BI dashboard provides an interactive view of:
 **Kunal Gupta**
 
 - LinkedIn: [Kunal Gupta](https://www.linkedin.com/in/kunal-gupta-71210836a/)
-- Email: kunal78360k@gmail.com
+- Email: [kunal78360k@gmail.com](mailto:kunal78360k@gmail.com)
